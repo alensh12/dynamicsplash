@@ -1,5 +1,6 @@
 {
   "response": {
-    "image": "https://worldlink.com.np/nayastandard/img/logo/logo.png"
+    "image": "https://worldlink.com.np/nayastandard/img/logo/logo.png",
+    "error": false
   }
 }
